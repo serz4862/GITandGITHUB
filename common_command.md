@@ -1,4 +1,5 @@
-'''
+# GIT and GITHUB
+
 here the common command to be used are :
 git add
 git branch
@@ -21,5 +22,3 @@ git remote
 git reset
 git revert
 git status
-
-'''
