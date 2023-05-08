@@ -1,6 +1,5 @@
-The command that I have used to push to the github is
- 
-
+# The command that I have used to push to the github is
+  
  git init
  git status
  git add .
@@ -8,3 +7,4 @@ The command that I have used to push to the github is
  git remote add origin  plus link from the github
  git remote -v
  git push -u origin main
+ 
