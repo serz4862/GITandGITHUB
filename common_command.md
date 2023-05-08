@@ -1,12 +1,19 @@
 # GIT and GITHUB
 
 <h2>Here the common command to be used are :</h2>
-<h3>git add :</h3>
+<h3>Git add :</h3>
         Git add is used to add the modified file for commit. Moves changes from the working directory to the staging area.
-<h3> git branch: </h3>
-        one of the best feature that the git has it can be branched
+        This gives us the raw picture of the things that are going to be committing on the official history.
+<h3> Git branch: </h3>
+                One of the best feature that the git provide us to branch
                 which means we can practice different different code under different branch and the parent code will be same,
-                and then we can switch to any of the branch.
+                and then we can switch to any of the branch and then we can merge it too.
+                <ol>
+                <li>This command is your general-purpose branch administration tool.</li> 
+                <li>It lets you create isolated development environments within a single repository.</li>
+                </ol>
+
+
 git checkout : git checkout command is used to switch between the branch and it is also used to create the branch.
 git clean
 git clone : git clone is used to clone the repository from the github by simply copying the link of the repository.
