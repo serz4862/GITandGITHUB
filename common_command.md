@@ -1,8 +1,8 @@
 # GIT and GITHUB
 
-here the common command to be used are :
+<h2>Here the common command to be used are :</h2>
 <h3>git add :</h3>
-        git add is used to add the modified file for commit. Moves changes from the working directory to the staging area.
+        Git add is used to add the modified file for commit. Moves changes from the working directory to the staging area.
 <h3> git branch: </h3>
         one of the best feature that the git has it can be branched
                 which means we can practice different different code under different branch and the parent code will be same,
