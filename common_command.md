@@ -7,7 +7,7 @@ git branch: one of the best feature that the git has it can be branched
                 and then we can switch to any of the branch.
 git checkout : git checkout command is used to switch between the branch and it is also used to create the branch.
 git clean
-git clone
+git clone : git clone is used to clone the repository from the github by simply copying the link of the repository.
 git commit
 git commit --amend
 git config
