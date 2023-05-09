@@ -18,6 +18,9 @@
                 <li>git checkout command is used to switch between the branch and it is also used to create the branch.</li>
                 <li>In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.</li>
                 <li>Combined with the basic Git commands, it’s a way to work on a particular line of development.</li>
+                 <li>git checkout</li>
+                <li>git checkout -b saurav</li>
+                <li>git checkout saurav</li>
                 </ol>
 <h3>Git clean :</h3>
                 <ol>
