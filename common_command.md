@@ -19,7 +19,11 @@
                 <li>In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.</li>
                 <li>Combined with the basic Git commands, it’s a way to work on a particular line of development.</li>
                 </ol>
-git clean
+</h3>git clean</h3>
+                <ol>
+                <li>  It removes the untracked files from the working directory </li>
+                <li> This is the logical counterpart to git reset, which (typically) only operates on tracked files.</li>
+                </ol>
 git clone : git clone is used to clone the repository from the github by simply copying the link of the repository.
 git commit
 git commit --amend
