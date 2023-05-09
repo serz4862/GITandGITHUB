@@ -13,8 +13,12 @@
                 <li>It lets you create isolated development environments within a single repository.</li>
                 </ol>
 
-
-git checkout : git checkout command is used to switch between the branch and it is also used to create the branch.
+<h3>git checkout</h3> :
+                <ol>
+                <li>git checkout command is used to switch between the branch and it is also used to create the branch.</li>
+                <li>In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.</li>
+                <li>Combined with the basic Git commands, it’s a way to work on a particular line of development.</li>
+                </ol>
 git clean
 git clone : git clone is used to clone the repository from the github by simply copying the link of the repository.
 git commit
