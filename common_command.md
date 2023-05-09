@@ -21,6 +21,7 @@
                  <ul><li>git checkout</li>
                 <li>git checkout -b saurav</li>
                 <li>git checkout saurav</li>
+                <li>git checkout main</li>       
                 </ul>
                 </ol>
 <h3>Git clean :</h3>
