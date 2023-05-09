@@ -18,13 +18,13 @@
                 <li>git checkout command is used to switch between the branch and it is also used to create the branch.</li>
                 <li>In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.</li>
                 <li>Combined with the basic Git commands, it’s a way to work on a particular line of development.</li>
-                 <ul><li>git checkout</li>
-                <li>git checkout -b saurav</li>
-                <li>git checkout saurav</li>
-                <li>git checkout main</li>       
+                 <ul><li>git checkout = To check the number of branches that we have in that file</li>
+                <li>git checkout -b saurav = To create a new branch in that file</li>
+                <li>git checkout saurav = To switch into the branch</li>
+                <li>git checkout main< = To return back to the main branch/li>       
                 </ul>
                 </ol>
-<h3>Git clean :</h3>
+<h3>Git clean :</h3>  
                 <ol>
                 <li>  It removes the untracked files from the working directory </li>
                 <li> This is the logical counterpart to git reset, which (typically) only operates on tracked files.</li>
