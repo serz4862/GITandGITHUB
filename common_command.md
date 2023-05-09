@@ -21,7 +21,7 @@
                  <ul><li>git checkout = To check the number of branches that we have in that file</li>
                 <li>git checkout -b saurav = To create a new branch in that file</li>
                 <li>git checkout saurav = To switch into the branch</li>
-                <li>git checkout main< = To return back to the main branch/li>       
+                <li>git checkout main = To return back to the main branch</li>       
                 </ul>
                 </ol>
 <h3>Git clean :</h3>  
