@@ -13,7 +13,7 @@
                 <li>It lets you create isolated development environments within a single repository.</li>
                 </ol>
 
-<h3>git checkout</h3> :
+<h3>git checkout</h3> 
                 <ol>
                 <li>git checkout command is used to switch between the branch and it is also used to create the branch.</li>
                 <li>In addition to checking out old commits and old file revisions, git checkout is also the means to navigate existing branches.</li>
