@@ -30,7 +30,8 @@
                 <li>  It removes the untracked files from the working directory </li>
                 <li> This is the logical counterpart to git reset, which (typically) only operates on tracked files.</li>
                 </ol>
-git clone : git clone is used to clone the repository from the github by simply copying the link of the repository.
+<h3>git clone : </h3>
+                <p>git clone is used to clone the repository from the github by simply copying the link of the repository.</p>
 git commit
 git commit --amend
 git config
