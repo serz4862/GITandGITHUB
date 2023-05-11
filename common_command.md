@@ -31,7 +31,8 @@
                 <li> This is the logical counterpart to git reset, which (typically) only operates on tracked files.</li>
                 </ol>
 <h3>git clone : </h3>
-                <p>git clone is used to clone the repository from the github by simply copying the link of the repository.</p>
+                <p>git clone is used to clone the repository from the github by simply copying the link of the repository.
+                Creates a copy of an existing Git repository. Cloning is the most common way for developers to obtain a working copy of a central repository.</p>
 git commit
 git commit --amend
 git config
