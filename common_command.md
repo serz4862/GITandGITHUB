@@ -33,7 +33,11 @@
 <h3>git clone : </h3>
                 <p>git clone is used to clone the repository from the github by simply copying the link of the repository.
                 Creates a copy of an existing Git repository. Cloning is the most common way for developers to obtain a working copy of a central repository.</p>
-git commit
+
+<h3>git commit :</h3>
+                <p>Takes the staged snapshot and commits it to the project history. Combined with git add, this defines the basic workflow for all Git users.</p>
+
+
 git commit --amend
 git config
 git fetch
