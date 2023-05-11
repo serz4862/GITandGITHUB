@@ -30,11 +30,11 @@
                 <li>  It removes the untracked files from the working directory </li>
                 <li> This is the logical counterpart to git reset, which (typically) only operates on tracked files.</li>
                 </ol>
-<h3>git clone : </h3>
-                <p>git clone is used to clone the repository from the github by simply copying the link of the repository.
+<h3>Git clone : </h3>
+                <p>Git clone is used to clone the repository from the github by simply copying the link of the repository.
                 Creates a copy of an existing Git repository. Cloning is the most common way for developers to obtain a working copy of a central repository.</p>
 
-<h3>git commit :</h3>
+<h3>Git commit :</h3>
                 <p>Takes the staged snapshot and commits it to the project history. Combined with git add, this defines the basic workflow for all Git users.</p>
 
 
