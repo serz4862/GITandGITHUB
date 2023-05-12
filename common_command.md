@@ -38,7 +38,7 @@
                 <p>Takes the staged snapshot and commits it to the project history. Combined with git add, this defines the basic workflow for all Git users.</p>
 
 
-<h3>git commit --amend :</h3>
+<h3>Git commit --amend :</h3>
                 <p>Passing the --amend flag to git commit lets you amend the most recent commit. This is very useful when you forget to stage a file or omit important information from the commit message.</p>
                  
 git config
