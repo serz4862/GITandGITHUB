@@ -40,7 +40,7 @@
 
 <h3>Git commit --amend :</h3>
                 <p>Passing the --amend flag to git commit lets you amend the most recent commit. This is very useful when you forget to stage a file or omit important information from the commit message.</p>
-                <p> It simply let us to change the -m of the commit if we want to change it </p>
+                <p> It simply let us to change the -m of the commit if we want to change it. </p>
                  
 git config
 git fetch
