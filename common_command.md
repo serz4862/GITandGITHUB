@@ -46,7 +46,7 @@
                 <p>A convenient way to set configuration options for your Git installation. You’ll typically only need to use this immediately after installing Git on a new development machine.</p>
 
 
-git fetch
+<h3>Git fetch: </h3>
 git init
 git log
 git merge
