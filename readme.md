@@ -1,7 +1,7 @@
 # The command that I have used to push to the github is
   
  <p>git init</p>
- git status
+ <p>git status</p>
  git add .
  git commit -m "....."
  git remote add origin  plus link from the github
