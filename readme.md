@@ -1,6 +1,6 @@
 # The command that I have used to push to the github is
   
- git init
+ <p>git init</p>
  git status
  git add .
  git commit -m "....."
