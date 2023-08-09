@@ -63,4 +63,8 @@ git remote
 git reset
 git revert
 git status
+<<<<<<< HEAD
 osdfhjoidlfkujosildkfjzxoclikjszfcliksjdfoiclk
+=======
+git diff
+>>>>>>> 901b9ba (branch)
