@@ -17,4 +17,4 @@ git add README.md /whole file
 git commit -m "first commit"
 git branch -M main
 git remote add origin "git@github.com:serz4862/JS_Project.git"(link from the github)
-git push -u origin main 
+git push -u origin mainodifljksf
