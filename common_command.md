@@ -50,7 +50,7 @@
                 <p>Fetching downloads a branch from another repository, along with all of its associated commits and files. But, it doesn't try to integrate anything into your local repository. This gives you a chance to inspect changes before merging them with your project.</p>
 
                 
-git init
+<h3>git init</h3>
 git log
 git merge
 git pull
