@@ -31,4 +31,3 @@ Branching**: Git promotes branching as a fundamental concept. Developers can cre
 ### Local and Remote Repositories
 
  Git has both local and remote repositories. Developers work on their local copy, and changes can be pushed to a remote repository (e.g., on GitHub) for sharing and backup.
-
